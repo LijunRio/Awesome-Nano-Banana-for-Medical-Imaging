@@ -531,7 +531,7 @@ Generate the brain segmentation
 
 ## 🤝 贡献
 
-有关详细贡献指南，请参见 [contribution.md](contribution.md)。我们欢迎您贡献以扩展我们的示例集合，并推进对 AI 在医学成像中应用的理解！
+有关详细贡献指南，请参见 [CONTRIBUTION.md](CONTRIBUTION.md)。我们欢迎您贡献以扩展我们的示例集合，并推进对 AI 在医学成像中应用的理解！
 
 ## 📖 引用
 如果您在研究中使用此资源，请引用：

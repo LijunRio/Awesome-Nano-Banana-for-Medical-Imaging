@@ -535,7 +535,7 @@ Although Nano Banana possesses broad capabilities as a general-purpose model, it
 
 ## 🤝 Contributing 
 
-For detailed contribution guidelines, please see [contribution.md](contribution.md). We welcome your contributions to expand our collection of examples and advance the understanding of AI applications in medical imaging!
+For detailed contribution guidelines, please see [CONTRIBUTION.md](CONTRIBUTION.md). We welcome your contributions to expand our collection of examples and advance the understanding of AI applications in medical imaging!
 
 ## 📖 Citation 
 If you use this resource in your research, please cite:
