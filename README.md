@@ -78,9 +78,9 @@ Annotate this [image modality] without altering the original pixels. Add overlay
 |--------------|------------|-------------------|-----------------|
 | <img src="./images/case_7941.png" alt="MRI Input Image" width="200"> | <img src="./images/case_7941_gemini.png" alt="MRI Gemini Output" width="200"> | <img src="./images/case18515.png" alt="Surgical Input Image" width="200"> | <img src="./images/case18515_gemini.png" alt="Surgical Gemini Output" width="200"> |
 
-| MRI Original | MRI Gemini | Surgical Original | Surgical Gemini |
-|--------------|------------|-------------------|-----------------|
-| <img src="./images/case_17344_2.png" alt="MRI Input Image" width="200"> | <img src="./images/case_17344_2_gemini.png" alt="MRI Gemini Output" width="200"> | <img src="./images/case18515.png" alt="Surgical Input Image" width="200"> | <img src="./images/case18515_gemini.png" alt="Surgical Gemini Output" width="200"> |
+| MRI Original | MRI Gemini | 
+|--------------|------------|
+| <img src="./images/case_17344_2.png" alt="MRI Input Image" width="200"> | <img src="./images/case_17344_2_gemini.png" alt="MRI Gemini Output" width="200"> | <img src="./images/case18515.png" alt="Surgical Input Image" width="200"> | 
 
 ### Case 04: Annotation and Marker Removal
 <details>
