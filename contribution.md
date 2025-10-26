@@ -49,15 +49,7 @@ All new examples must follow the established format used in the README.md. Each 
 - **License Compliance**: All images must comply with applicable licenses and usage terms. Clearly indicate if images are AI-generated in the example description
 
 
-### 4. Quality Standards
-
-- **Medical Accuracy**: Examples should demonstrate medically relevant applications
-- **Ethical Considerations**: Avoid examples that could be misinterpreted as diagnostic tools
-- **Reproducibility**: Include sufficient detail for others to reproduce results
-- **Novelty**: Focus on unique applications of Nano Banana in medical imaging
-- **License and Attribution**: Strictly adhere to all applicable licenses. Clearly disclose the nature of all content (original vs. AI-generated)
-
-### 5. Submission Process
+### 4. Submission Process
 
 1. **Fork** the repository
 2. **Create a feature branch** for your contribution
@@ -65,18 +57,5 @@ All new examples must follow the established format used in the README.md. Each 
 4. **Update the Example Lists** section in README.md with your new example
 5. **Test** that all links work correctly
 6. **Submit a Pull Request** with a clear description of your contribution
-
-### 6. Code of Conduct
-
-- Respect patient privacy and medical ethics
-- Provide constructive feedback on other contributions
-- Maintain professional and collaborative communication
-
-## Need Help?
-
-If you have questions about contributing or need clarification on the guidelines, please:
-- Open an issue in the repository
-- Check existing examples for reference
-- Review the main README.md for context
 
 We appreciate your contributions to advancing the understanding of AI applications in medical imaging!
