@@ -2,7 +2,7 @@
 # 🩻 🍌 Awesome Nano Banana for Medical Imaging
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENCE)
 
 > A curated collection of **resources, prompts, examples, and projects** exploring the **Nano Banana (Gemini-2.5-Flash-Image)** framework for **medical imaging research**.
 
@@ -542,3 +542,10 @@ If you use this resource in your research, please cite:
   howpublished={\url{https://github.com/yourusername/awesome-nanobannan-for-medical-imaging}}
 }
 ```
+
+## 🙏 Thanks
+
+Thanks to the authors and maintainers of the following repositories for inspiration:
+
+- [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana)
+- [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images)
