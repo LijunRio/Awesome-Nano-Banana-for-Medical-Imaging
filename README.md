@@ -63,7 +63,7 @@ Remove the unhealthy or abnormal areas in the images and generate a healthy vers
 
 | MRI (a) Original | MRI (a) Gemini | MRI (b) Original | MRI (b) Gemini |
 |------------------|----------------|------------------|----------------|
-| <img src="./images/input2.png" alt="MRI (a) Input Image" width="200"> | <img src="./images/output2.png" alt="MRI (a) Gemini Output" width="200"> | <img src="./images/case_19195.png" alt="MRI (b) Input Image" width="200"> | <img src="./images/case_19195_gemini.png" alt="MRI (b) Gemini Output" width="200"> |
+| <img src="./images/case_18826.png" alt="MRI (a) Input Image" width="200"> | <img src="./images/case_18826_gemini.png" alt="MRI (a) Gemini Output" width="200"> | <img src="./images/case_19195.png" alt="MRI (b) Input Image" width="200"> | <img src="./images/case_19195_gemini.png" alt="MRI (b) Gemini Output" width="200"> |
 
 ### Case 03: Add Annotations
 <details>
@@ -78,6 +78,10 @@ Annotate this [image modality] without altering the original pixels. Add overlay
 |--------------|------------|-------------------|-----------------|
 | <img src="./images/case_7941.png" alt="MRI Input Image" width="200"> | <img src="./images/case_7941_gemini.png" alt="MRI Gemini Output" width="200"> | <img src="./images/case18515.png" alt="Surgical Input Image" width="200"> | <img src="./images/case18515_gemini.png" alt="Surgical Gemini Output" width="200"> |
 
+| MRI Original | MRI Gemini | Surgical Original | Surgical Gemini |
+|--------------|------------|-------------------|-----------------|
+| <img src="./images/case_17344_2.png" alt="MRI Input Image" width="200"> | <img src="./images/case_17344_2_gemini.png" alt="MRI Gemini Output" width="200"> | <img src="./images/case18515.png" alt="Surgical Input Image" width="200"> | <img src="./images/case18515_gemini.png" alt="Surgical Gemini Output" width="200"> |
+
 ### Case 04: Annotation and Marker Removal
 <details>
 <summary>Show prompt</summary>
@@ -90,6 +94,19 @@ Remove all annotations, arrows, labels, text, and markers from this scan image. 
 | MRI Original | MRI Gemini | Surgical Original | Surgical Gemini |
 |--------------|------------|-------------------|-----------------|
 | <img src="./images/case_18515.png" alt="MRI Input Image" width="200"> | <img src="./images/case_18515_gemini.png" alt="MRI Gemini Output" width="200"> | <img src="./images/case_18816.png" alt="Surgical Input Image" width="200"> | <img src="./images/case_18816_gemini.png" alt="Surgical Gemini Output" width="200"> |
+```
+Please remove the skull from the image. It appears as the outermost bright white border.
+```
+
+```
+Remove the skull from the image and retain only show the brain region in the final output. 
+yes correct, but you change the brain, you should not change the brain
+My apologies! I understand now. You want the skull removed, but the brain itself should remain untouched, just as it was in the original image. Let me correct that for you: 
+```
+
+| MRI Original | MRI Gemini | 
+|--------------|------------|
+| <img src="./images/case_19196.png" alt="MRI Input Image" width="200"> | <img src="./images/case_19196_gemini.png" alt="MRI Gemini Output" width="200"> | <img src="./images/case_18816.png" alt="Surgical Input Image" width="200"> | 
 
 ### Case 05: Modaility Transformation
 <details>
@@ -145,6 +162,26 @@ Produce a clean, artifact-free, anatomically faithful version that looks realist
 | Original | Gemini | Original | Gemini |
 |--------------|------------|-------------------|-----------------|
 | <img src="./images/artefect.png" alt="MRI Input Image with Artifact" width="200"> | <img src="./images/artefect_gemini.png" alt="MRI Gemini Output (Artifact Removed)" width="200"> |  <img src="./images/artefect2.png" alt="MRI Input Image with Artifact" width="200"> | <img src="./images/artefect_gemini2.png" alt="MRI Gemini Output (Artifact Removed)" width="200">|
+
+
+
+### Case 08: Segmentation (分割)
+
+
+<details>
+<summary>Show prompt</summary>
+
+```
+Segment all visible organs in the image..
+```
+</details>
+
+| Original | Ground Truth Mask | Gemini Overlay | Gemini Mask |
+|----------|-------------------|----------------|-------------|
+| <img src="./images/case_15782.png" alt="Original Image" width="200"> | <img src="./images/case_15782_gemini.png" alt="Ground Truth Mask" width="200"> | <img src="./images/case_15782_2.png" alt="Gemini Overlay" width="200"> | <img src="./images/case_15782_2_gemini.png" alt="Gemini Mask" width="200"> |
+
+
+
 
 ## Datasets 📊
 Source: EURORAD (https://eurorad.org).  
