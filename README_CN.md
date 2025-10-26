@@ -1,12 +1,14 @@
-# 🩻 🍌  Awesome Nano Banana for Medical Imaging
+<div align="center">
+  <img src="./figures/logo.png" width="200" alt="Logo">
+  <br>
+  <h1>🩻 🍌 Awesome Nano Banana for Medical Imaging</h1>
+</div>
 
 <p align="center">
-  <img src="./figures/logo.png" width="200" alt="Logo">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="LICENCE"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License: CC BY 4.0"></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/English-README-blue" alt="English"></a>
 </p>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENCE)
-[![English](https://img.shields.io/badge/English-README-blue)](./README.md)
 
 > 一个精心整理的**提示、示例**集合，探索**Nano Banana (Gemini-2.5-Flash-Image)** 模型在**医学图像研究**中的应用。
 

@@ -1,13 +1,15 @@
 
-# 🩻 🍌 Awesome Nano Banana for Medical Imaging
+<div align="center">
+  <img src="./figures/logo.png" width="200" alt="Logo">
+  <br>
+  <h1>🩻 🍌 Awesome Nano Banana for Medical Imaging</h1>
+</div>
 
 <p align="center">
-  <img src="./figures/logo.png" width="200" alt="Logo">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="LICENCE"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License: CC BY 4.0"></a>
+  <a href="./README_CN.md"><img src="https://img.shields.io/badge/中文-README-blue" alt="中文"></a>
 </p>
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENCE)
-[![中文](https://img.shields.io/badge/中文-README-blue)](./README_CN.md)
 
 > A curated collection of **resources, prompts, examples, and projects** exploring the **Nano Banana (Gemini-2.5-Flash-Image)** model for **medical imaging research**.
 
