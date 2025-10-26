@@ -45,8 +45,8 @@ All new examples must follow the established format used in the README.md. Each 
 ### 3. 🖼️ Image Guidelines
 
 - **Storage**: Place images in the `images/` directory
-- **AI-Generated Content**: Sample images may be generated using large language models (such as Nano Banana/Gemini), provided they are used solely for research and educational purposes
-- **License Compliance**: All images must comply with applicable licenses and usage terms. Clearly indicate if images are AI-generated in the example description
+- **AI-Generated Content**: Sample images may be generated using large language models (such as Nano Banana/Gemini), provided they are used solely for research and educational purposes 🤖
+- **License Compliance**: All images must comply with applicable licenses and usage terms. Clearly indicate if images are AI-generated in the example description ⚖️
 
 
 ### 4. ✅ Quality Standards
@@ -59,14 +59,14 @@ All new examples must follow the established format used in the README.md. Each 
 
 ### 5. 🔄 Submission Process
 
-1. **Fork** the repository
-2. **Create a feature branch** for your contribution
-3. **Add your example** following the format guidelines above
-4. **Update the Example Lists** section in README.md with your new example
-5. **Test** that all links work correctly
-6. **Submit a Pull Request** with a clear description of your contribution
+1. **Fork** the repository 🍴
+2. **Create a feature branch** for your contribution 🌿
+3. **Add your example** following the format guidelines above ➕
+4. **Update the Example Lists** section in README.md with your new example 📝
+5. **Test** that all links work correctly ✅
+6. **Submit a Pull Request** with a clear description of your contribution 🔀
 
-### 6. Code of Conduct
+### 6. 🤝 Code of Conduct
 
 - Respect patient privacy and medical ethics 🛡️
 - Provide constructive feedback on other contributions 💬
