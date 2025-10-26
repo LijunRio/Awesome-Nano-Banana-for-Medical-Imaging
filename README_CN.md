@@ -2,14 +2,15 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENCE)
+[![English](https://img.shields.io/badge/English-README-blue)](./README.md)
 
-> 一个精心策划的**资源、提示、示例和项目**集合，探索**Nano Banana (Gemini-2.5-Flash-Image)** 框架在**医学成像研究**中的应用。
+> 一个精心整理的**提示、示例**集合，探索**Nano Banana (Gemini-2.5-Flash-Image)** 模型在**医学图像研究**中的应用。
 
 ---
 
 ## 👋 欢迎
 
-医学成像中的 Nano Banana 资源集合是一个社区驱动的探索性仓库，旨在调查 Gemini-2.5-Flash-Image（"Nano Banana"）模型——一种通用视觉-语言生成模型——在医学成像任务中的潜在应用。
+Awesome Nano Banana for Medical Imaging 是一个社区驱动的探索性仓库，旨在调查 Gemini-2.5-Flash-Image（"Nano Banana"）模型——一种通用视觉-语言生成模型——在医学图像任务中的潜在应用。
 
 该项目旨在收集、探索和表征通用 AGI 导向生成模型在医学成像背景下的能力。该仓库寻求揭示此类模型的新兴能力，并激发在生成 AI 和医学成像交叉领域的进一步研究。潜在应用包括数据增强、临床和教育环境中的跨模态理解，以及使用生成模型进行医学教育、模拟和视觉沟通。
 
@@ -493,7 +494,7 @@ Generate the brain segmentation
 
 ## 📊 数据集
 来源：EURORAD (https://eurorad.org)。  
-许可证：请参考来源。本仓库不重新分发原始数据集；尊重原始许可和使用条款。
+许可证：请参考来源
 
 ## 🛠️ 工具
 

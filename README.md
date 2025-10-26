@@ -3,6 +3,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENCE)
+[![中文](https://img.shields.io/badge/中文-README-blue)](./README_CN.md)
 
 > A curated collection of **resources, prompts, examples, and projects** exploring the **Nano Banana (Gemini-2.5-Flash-Image)** model for **medical imaging research**.
 
