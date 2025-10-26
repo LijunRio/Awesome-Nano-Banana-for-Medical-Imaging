@@ -543,10 +543,9 @@ If you use this resource in your research, please cite:
 ```bibtex
 @misc{awesome_nano_banana_medical,
   title={Awesome Nano Banana for Medical Imaging},
-  author={Your Name},
   year={2025},
   publisher={GitHub},
-  howpublished={\url{https://github.com/yourusername/awesome-nanobannan-for-medical-imaging}}
+  howpublished={\url{https://github.com/LijunRio/Awesome-Nano-Banana-for-Medical-Imaging}}
 }
 ```
 
