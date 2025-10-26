@@ -1,5 +1,5 @@
 
-# 🩻 Awesome Nano Banana for Medical Imaging 🍌
+# 🩻 🍌 Awesome Nano Banana for Medical Imaging
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -22,7 +22,7 @@ This project aims to collect, explore, and characterize the capabilities of gene
 * The examples **must not be used for diagnosis, treatment, or any clinical decision-making**.
 
 
-## Example Lists
+## 📋 Example Lists
 - [Example 1: Detection of abnormal regions in MRI slice](#example-1-detection-of-abnormal-regions-in-mri-slice)
 - [Example 2: Detection of abnormal regions in CT image](#example-2-detection-of-abnormal-regions-in-ct-image)
 - [Example 3: Remove unhealthy areas in MRI (a)](#example-3-remove-unhealthy-areas-in-mri-a)
@@ -62,7 +62,7 @@ Nano Banana is the most advanced image generation and editing model developed by
 * **Creative collaboration:** Shifts from “command execution” to “inspirational dialogue,” supporting iterative creativity.
 
  
-## Examples
+## 🔍 Examples
 
 ### Example 1: Detection of abnormal regions in MRI slice
 
@@ -495,17 +495,17 @@ Generate the brain segmentation
 [Data Resource](https://www.eurorad.org/case/17773)
 
 
-## Datasets 📊
+## 📊 Datasets 
 Source: EURORAD (https://eurorad.org).  
 License: Please refer to the source. This repository does not redistribute original datasets; respect the original licensing and usage terms.
 
-## Tools
+## 🛠️ Tools
 
 All examples were generated using [Google AI Studio](https://aistudio.google.com/) with the Gemini-2.5-Flash-Image model. Default parameters were used for temperature and top_p.
 
 Please note that due to the inherent variability in generative AI models, slight differences may occur in outputs across multiple runs.
 
-## Observations
+## 👀 Observations
 
 ### Strengths
 During testing, we found that Nano Banana demonstrates excellent multi-task processing capabilities, capable of handling various medical imaging tasks, including some unconventional applications such as generating 3D models from 2D medical scan images.
@@ -526,11 +526,11 @@ Although Nano Banana possesses broad capabilities as a general-purpose model, it
 6. **Enhanced Effects from Multi-Round Inference**: Multi-round iterative inference can significantly improve the quality and accuracy of generated outputs.
 
 
-## Contributing 🤝
+## 🤝 Contributing 
 
 For detailed contribution guidelines, please see [contribution.md](contribution.md). We welcome your contributions to expand our collection of examples and advance the understanding of AI applications in medical imaging!
 
-## Citation 📖
+## 📖 Citation 
 If you use this resource in your research, please cite:
 
 ```bibtex
