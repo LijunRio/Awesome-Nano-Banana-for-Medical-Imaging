@@ -1,5 +1,9 @@
 # 🩻 🍌  Awesome Nano Banana for Medical Imaging
 
+<p align="center">
+  <img src="./figures/logo.png" width="200" alt="Logo">
+</p>
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENCE)
 [![English](https://img.shields.io/badge/English-README-blue)](./README.md)
