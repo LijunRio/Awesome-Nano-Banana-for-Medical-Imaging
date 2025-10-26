@@ -505,6 +505,27 @@ All examples were generated using [Google AI Studio](https://aistudio.google.com
 
 Please note that due to the inherent variability in generative AI models, slight differences may occur in outputs across multiple runs.
 
+## Observations
+
+### Strengths
+During testing, we found that Nano Banana demonstrates excellent multi-task processing capabilities, capable of handling various medical imaging tasks, including some unconventional applications such as generating 3D models from 2D medical scan images.
+
+### Limitations in Medical Imaging Applications
+Although Nano Banana possesses broad capabilities as a general-purpose model, it still has several limitations in medical imaging applications:
+
+1. **Hallucination Issues**: The model tends to produce hallucinations, generating false or anatomically inconsistent content that deviates from the original medical images, even when maintaining slight consistency in general domains.
+
+2. **Difficulty Handling Complex Prompts**: Nano Banana struggles with overly complex or lengthy prompts. Concise and clear prompts typically lead to better alignment with intended outcomes.
+
+3. **In-Context Learning Capability**: The model possesses in-context learning abilities. For tasks where errors occur, when mistakes are pointed out or reference examples are provided, the model can correct and improve its performance.
+
+4. **Generation Stochasticity**: The model's generation process is inherently stochastic, making it challenging to achieve completely consistent outputs even with temperature=0 or controlled top-p parameters.
+
+5. **Excellent Performance on Simple Tasks**: The model performs excellently on simple tasks with clear data, such as removing annotations or labels from medical scan images.
+
+6. **Enhanced Effects from Multi-Round Inference**: Multi-round iterative inference can significantly improve the quality and accuracy of generated outputs.
+
+
 ## Contributing 🤝
 See contribution.md
 
