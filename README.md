@@ -41,13 +41,14 @@ This project aims to collect, explore, and characterize the capabilities of gene
 <summary>Show prompt</summary>
 
 ```
+Detect and localize abnormal regions in this MRI slice. 
 Detect and localize abnormal regions in this [image modality]. Highlight abnormal areas with bounding boxes.
 ```
 </details>
 
 | MRI Original | MRI Gemini | CT Original | CT Gemini |
 |--------------|------------|-------------|-----------|
-| <img src="./images/input.png" alt="MRI Input Image" width="200"> | <img src="./images/gemini.png" alt="MRI Gemini Output" width="200"> | <img src="./images/case_19205.png" alt="CT Input Image" width="200"> | <img src="./images/case_19205_gemini.png" alt="CT Gemini Output" width="200"> |
+| <img src="./images/case_17946.png" alt="MRI Input Image" width="200"> | <img src="./images/case_17946_gemini.png" alt="MRI Gemini Output" width="200"> | <img src="./images/case_19205.png" alt="CT Input Image" width="200"> | <img src="./images/case_19205_gemini.png" alt="CT Gemini Output" width="200"> |
 
 ---
 
