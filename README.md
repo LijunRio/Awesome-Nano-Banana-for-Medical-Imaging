@@ -4,7 +4,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENCE)
 
-> A curated collection of **resources, prompts, examples, and projects** exploring the **Nano Banana (Gemini-2.5-Flash-Image)** framework for **medical imaging research**.
+> A curated collection of **resources, prompts, examples, and projects** exploring the **Nano Banana (Gemini-2.5-Flash-Image)** model for **medical imaging research**.
 
 ---
 
@@ -497,7 +497,7 @@ Generate the brain segmentation
 
 ## 📊 Datasets 
 Source: EURORAD (https://eurorad.org).  
-License: Please refer to the source. This repository does not redistribute original datasets; respect the original licensing and usage terms.
+License: Please refer to the source.
 
 ## 🛠️ Tools
 
